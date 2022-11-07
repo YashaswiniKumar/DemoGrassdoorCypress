@@ -1,0 +1,14 @@
+{
+  "name": "grassdoor",
+  "version": "1.0.0",
+  "description": "grassdoor end to end scenario",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:DemoSpec": "npx cypress run --spec cypress/Integration/Tests/Demo.spec.js --headed --browser chrome"
+  },
+  "author": "yashaswini kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}
