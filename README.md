@@ -1,5 +1,7 @@
 # DemoGrassdoorCypress
-A sample end to end scenario for demo Grassdoor ecommerce site
+A sample Cypress script for automating an end to end scenario for demo Grassdoor ecommerce site
+
+The Data management for this simple cypress example framework is handled through Fixture file, and is based on Page Object Model with Mochawesome Reporting. 
 
 To run this Cypress suite
 
@@ -16,3 +18,5 @@ To run this Cypress suite
  4. Goto checkout
  5. Enter the required details
  6. Place order
+ 
+  
